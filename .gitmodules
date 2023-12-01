@@ -1,0 +1,9 @@
+[submodule "DockerPostgresUtils"]
+	path = DockerPostgresUtils
+	url = git@github.com:rinkaaan/DockerPostgresUtils.git
+[submodule "ShellUtils"]
+	path = ShellUtils
+	url = git@github.com:rinkaaan/ShellUtils.git
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
